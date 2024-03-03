@@ -1,5 +1,7 @@
 # demo-323
-Demo usando spring boot 3.2.3
+Demo usando:
+- spring boot 3.2.3
+- jdk 17
 
 Test app:
 - http 200: curl --location 'localhost:8090/test/test-200'
