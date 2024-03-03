@@ -1,0 +1,9 @@
+{
+  "@timestamp": "2024-03-02T22:36:45.619-03:00",
+  "@version": "1",
+  "message": "Execution time of ServerErrorAdvice.eserverErrorHandler :: 0 ms",
+  "logger_name": "com.mhj.demo323.aspect.LoggingAspect",
+  "thread_name": "http-nio-8090-exec-2",
+  "level": "INFO",
+  "level_value": 20000
+}

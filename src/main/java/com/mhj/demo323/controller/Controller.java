@@ -25,7 +25,7 @@ public class Controller {
 
 	@GetMapping("test-500")
 	public void test500() throws ServerErrorException {
-		log.info("test 500");
+		log.error("test 500");
 		throw new ServerErrorException("Erro interno servidor");
 	}
 }
